@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="calendar_expand">Show calendar</string>
+	<string name="calendar_today">Today</string>
+	<string name="nav_label_client">Client</string>
+	<string name="nav_label_provider">Provider</string>
+</resources>

@@ -1,0 +1,14 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+	<!-- TODO: App icon -->
+	<application android:label="Nick T Test">
+		<activity
+			android:name=".MainActivity"
+			android:exported="true"
+			android:theme="@android:style/Theme.DeviceDefault.NoActionBar">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+	</application>
+</manifest>
